@@ -1,7 +1,7 @@
 # Git Practice
 
-![Python CI](https://github.com)
-![Python](https://shields.io)
+![Python CI](https://github.com/TimelessUser1033/git-practice/actions/workflows/ci.yml/badge.svg)
+![Python](https://shields.io/badge/python-3.10_3.11_3.12-blue)
 
 Учебный репозиторий для отработки навыков работы с Git, GitHub, ветвлением, автотестами и документацией.
 
