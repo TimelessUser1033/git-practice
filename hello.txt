@@ -1,4 +1,5 @@
 Main line 1 before rebase
+Rebase feature line 1
 Line 1 from branch C
 Welcome to Git practice!
 Draft note in progress
