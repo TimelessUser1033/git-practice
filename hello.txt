@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Line 1 from main
+Line 1 from branch C
+>>>>>>> branch-c
 Welcome to Git practice!
 Draft note in progress
