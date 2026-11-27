@@ -1,3 +1,3 @@
-Hello, Git!
+Line 1 from branch B
 Welcome to Git practice!
 Draft note in progress
