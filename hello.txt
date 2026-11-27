@@ -1,4 +1,4 @@
-Line 1 from main
+Main line 1 before rebase
 Line 1 from branch C
 Welcome to Git practice!
 Draft note in progress
